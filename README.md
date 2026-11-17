@@ -148,8 +148,5 @@ https://lista-tareas-pwa.web.app
 
 ## Repositorio
 
-URL_DEL_REPOSITORIO
+https://github.com/IDGS-902-23002189/lista-tareas-pwa.git
 
-## Autora
-
-Proyecto académico desarrollado como práctica de desarrollo de aplicaciones web progresivas (PWA).
